@@ -1,6 +1,6 @@
 # Mall-Customer-Segmentation
 
-##K Means Clustering for Customer Data
+##**K Means Clustering for Customer Data**
 **clustering image**
 <p align="center">
   <img src="3D_clustering.png" />
@@ -33,5 +33,5 @@ Spending Score is something you assign to the customer based on your defined par
 You own the mall and want to understand the customers like who can be easily converge [Target Customers] 
 so that the sense can be given to marketing team and plan the strategy accordingly.
 
-##Dataset
+##**Dataset**
 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
