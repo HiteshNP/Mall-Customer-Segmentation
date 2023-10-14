@@ -1,10 +1,11 @@
 # Mall-Customer-Segmentation
 
 ## K Means Clustering for Customer Data
-**clustering image**
+**3D Clustering image**
 <p align="center">
   <img src="3D_clustering.png" />
 </p>
+**2D Clustering image**
 <p align="center">
   <img src="2D_clustering.png" />
 </p>
