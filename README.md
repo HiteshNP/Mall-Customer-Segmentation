@@ -5,6 +5,7 @@
 <p align="center">
   <img src="3D_clustering.png" />
 </p>
+
 **2D Clustering image**
 <p align="center">
   <img src="2D_clustering.png" />
